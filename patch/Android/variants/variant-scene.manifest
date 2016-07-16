@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3053539779
+CRC: 1783860798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b393e1b121e51791fc20e3b3cc7902e4
+    Hash: ab60cc94d134adb40dcac1f6aad4d3df
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 01a4f1b09cfcb62b05113bbdd56387e7
+    Hash: b085d081e009ae32c51b8342131fdad9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,9 +33,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleSample/SampleAssets/Variants/VariantScene.unity
-Dependencies:
-- AssetBundles/Android/variants/myassets.hd
+Dependencies: []
