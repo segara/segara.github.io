@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 572891075
+CRC: 4076552717
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: faa24c4a8770117186ff79739975b6c0
+    Hash: b1adc9a4c7a716dd2b570a6cfaa95863
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e8c932ad781d0f68451f4a2cd6f7de06
+    Hash: f47ef1d0fb31e7bdc56f33d8ed167767
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,5 +32,4 @@ ClassTypes:
 Assets:
 - Assets/AssetBundleResource/Tutorial.asset
 - Assets/AssetBundleResource/Tank.fbx
-Dependencies:
-- AssetBundles/Android/tanks-albedo.normal-hd
+Dependencies: []
