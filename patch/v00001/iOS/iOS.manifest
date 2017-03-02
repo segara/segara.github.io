@@ -1,7 +1,17 @@
 ManifestFileVersion: 0
-CRC: 183613152
+CRC: 3592853538
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: bg-mat.bundle
+      Dependencies:
+        Dependency_0: bundle_default_background_common_bundle
+    Info_1:
+      Name: bundle_default_background_c02_bundle
+      Dependencies: {}
+    Info_2:
+      Name: bundle_default_background_common_bundle
+      Dependencies: {}
+    Info_3:
       Name: tutorialdata_bundle
       Dependencies: {}
