@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2314167541
+CRC: 2525819798
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -14,4 +14,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: tutorialdata_bundle
+      Dependencies: {}
+    Info_4:
+      Name: achieve_bundle
       Dependencies: {}
