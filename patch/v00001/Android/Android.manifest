@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1900169614
+CRC: 1644287378
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -17,4 +17,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_4:
       Name: achieve_bundle
+      Dependencies: {}
+    Info_5:
+      Name: gameitem_bundle
       Dependencies: {}
