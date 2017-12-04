@@ -1,26 +1,26 @@
 ManifestFileVersion: 0
-CRC: 2746939154
+CRC: 3044431027
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: tutorialdata_bundle
-      Dependencies: {}
+      Name: bg-mat.bundle
+      Dependencies:
+        Dependency_0: bundle_default_background_common_bundle
     Info_1:
       Name: bundle_default_background_c02_bundle
       Dependencies: {}
     Info_2:
-      Name: bg-mat.bundle
-      Dependencies:
-        Dependency_0: bundle_default_background_common_bundle
+      Name: emoji
+      Dependencies: {}
     Info_3:
       Name: bundle_default_background_common_bundle
       Dependencies: {}
     Info_4:
-      Name: achieve_bundle
+      Name: tutorialdata_bundle
       Dependencies: {}
     Info_5:
       Name: gameitem_bundle
       Dependencies: {}
     Info_6:
-      Name: emoji
+      Name: achieve_bundle
       Dependencies: {}
