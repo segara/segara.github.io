@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.com2us.Golfstar</string>
+				<string>com.nextlevelgame.pianoblock</string>
 				<key>bundle-version</key>
 				<string>2.2.0</string>
 				<key>kind</key>
