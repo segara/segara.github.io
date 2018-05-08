@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1694000527
+CRC: 3478430334
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -23,4 +23,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_6:
       Name: achieve_bundle
+      Dependencies: {}
+    Info_7:
+      Name: bgm_bundle
       Dependencies: {}
