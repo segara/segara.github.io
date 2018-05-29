@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3209639126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8116b3307f692c38c949dc569613644
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee73c1242a5d172c2ed98252b53df583
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/Bgm1.prefab
+- Assets/AssetBundleResource/Bgm2.prefab
+Dependencies: []
