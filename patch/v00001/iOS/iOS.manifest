@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4187791130
+CRC: 906605069
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,20 +10,17 @@ AssetBundleManifest:
       Name: bundle_default_background_c02_bundle
       Dependencies: {}
     Info_2:
-      Name: emoji
-      Dependencies: {}
-    Info_3:
       Name: bundle_default_background_common_bundle
       Dependencies: {}
-    Info_4:
+    Info_3:
       Name: tutorialdata_bundle
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: gameitem_bundle
       Dependencies: {}
-    Info_6:
+    Info_5:
       Name: achieve_bundle
       Dependencies: {}
-    Info_7:
-      Name: bgm_bundle
+    Info_6:
+      Name: emoji
       Dependencies: {}
