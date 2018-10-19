@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1828599898
+CRC: 732283725
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -16,14 +16,14 @@ AssetBundleManifest:
       Name: bundle_default_background_common_bundle
       Dependencies: {}
     Info_4:
-      Name: tutorialdata_bundle
+      Name: bgm_bundle
       Dependencies: {}
     Info_5:
-      Name: gameitem_bundle
+      Name: tutorialdata_bundle
       Dependencies: {}
     Info_6:
-      Name: achieve_bundle
+      Name: gameitem_bundle
       Dependencies: {}
     Info_7:
-      Name: bgm_bundle
+      Name: achieve_bundle
       Dependencies: {}
