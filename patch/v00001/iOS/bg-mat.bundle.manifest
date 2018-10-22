@@ -57,4 +57,4 @@ Assets:
 - Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_a.mat
 - Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C06_a.mat
 Dependencies:
-- /Users/Shared/Jenkins/Home/workspace/iOS_job/AssetBundles/iOS/bundle_default_background_common_bundle
+- /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/bundle_default_background_common_bundle
