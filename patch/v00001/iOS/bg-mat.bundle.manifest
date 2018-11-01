@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1235761505
+CRC: 2766530576
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7512eb923ee832c9c390e44a25cf652
+    Hash: 89140477f732ba99945ccaed1cfc39ad
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0520077050483de6babb9bd310d40764
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -57,4 +57,4 @@ Assets:
 - Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_a.mat
 - Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C06_a.mat
 Dependencies:
-- /Volumes/prog/BeatBlock/beatblock/AssetBundles/iOS/bundle_default_background_common_bundle
+- /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/bundle_default_background_common_bundle
