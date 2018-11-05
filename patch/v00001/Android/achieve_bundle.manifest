@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3139389564
+CRC: 4114429588
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2217e365b4ada714d3d5725926d94776
+    Hash: 78d50b91e7c1510d3d59c904e43f1648
   TypeTreeHash:
     serializedVersion: 2
     Hash: a0cf49e538270056ea669c020fddacad
@@ -15,5 +15,4 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/Achievement.asset
-- Assets/Resources/Data/Achievement.asset
 Dependencies: []

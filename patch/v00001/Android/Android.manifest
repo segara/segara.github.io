@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1828599898
+CRC: 880335908
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -26,4 +26,13 @@ AssetBundleManifest:
       Dependencies: {}
     Info_7:
       Name: bgm_bundle
+      Dependencies: {}
+    Info_8:
+      Name: localize_bundle
+      Dependencies: {}
+    Info_9:
+      Name: musicscore_bundle
+      Dependencies: {}
+    Info_10:
+      Name: inappshop_bundle
       Dependencies: {}
