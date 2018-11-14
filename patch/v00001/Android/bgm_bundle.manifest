@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3991766398
+CRC: 3253813286
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8ae13eb06da866c72245c5ffe55da15
+    Hash: 941e86c3742c8bc868bd91aac7134bc6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8de51064219e4f947fb7fea9d09a4e34
@@ -19,5 +19,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/Bgm1.prefab
+- Assets/AssetBundleResource/2.wav
 - Assets/AssetBundleResource/Bgm2.prefab
+- Assets/AssetBundleResource/1.mp3
 Dependencies: []
