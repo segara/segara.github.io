@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3288835790
+CRC: 86627966
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,23 +12,26 @@ AssetBundleManifest:
       Name: bundle_default_background_common_bundle
       Dependencies: {}
     Info_3:
-      Name: tutorialdata_bundle
-      Dependencies: {}
-    Info_4:
-      Name: gameitem_bundle
-      Dependencies: {}
-    Info_5:
-      Name: achieve_bundle
-      Dependencies: {}
-    Info_6:
       Name: bgm_bundle
       Dependencies: {}
+    Info_4:
+      Name: tutorialdata_bundle
+      Dependencies: {}
+    Info_5:
+      Name: gameitem_bundle
+      Dependencies: {}
+    Info_6:
+      Name: achieve_bundle
+      Dependencies: {}
     Info_7:
-      Name: localize_bundle
+      Name: inappshop_bundle
       Dependencies: {}
     Info_8:
-      Name: musicscore_bundle
+      Name: localize_bundle
       Dependencies: {}
     Info_9:
-      Name: inappshop_bundle
+      Name: musicscore_bundle
+      Dependencies: {}
+    Info_10:
+      Name: ingame
       Dependencies: {}
