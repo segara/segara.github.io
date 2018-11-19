@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 356769045
+CRC: 877360306
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -31,4 +31,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_9:
       Name: musicscore_bundle
+      Dependencies: {}
+    Info_10:
+      Name: ingame
       Dependencies: {}
