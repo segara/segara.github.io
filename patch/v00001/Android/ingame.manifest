@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4092767975
+CRC: 2299584952
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d06930d7352fb77c2c513d094cc424a0
+    Hash: 70b39ab5035d6fb49bb53bf79fd06502
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fe2ecb61cff95d09ee2a1a2756fae6fd
+    Hash: db120d334f86f94367224e9eac6f5f95
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,8 +32,6 @@ ClassTypes:
 - Class: 64
   Script: {instanceID: 0}
 - Class: 81
-  Script: {instanceID: 0}
-- Class: 82
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
@@ -133,4 +131,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/InGame.unity
-Dependencies: []
+Dependencies:
+- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/nanum_bundle
