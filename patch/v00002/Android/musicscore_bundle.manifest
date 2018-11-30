@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2249651015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 409ae9c137a35a9fc28b5f5ca039412b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab6b9a8e37821fa2aafa16f9bc030404
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: c28da31b0c88a4441b2541f99e700789, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/MusicScore.asset
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1045221224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd6b35442751655c7c6e02e8a23fcb15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a134096ce207d16a0805641d142930ed
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 886235b2218baef4a9527bbccf0cf470, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/InappShop.asset
+Dependencies: []

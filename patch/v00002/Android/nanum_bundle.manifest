@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2036082544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2e2a5589759780342203b4473ec4f23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4133e9af2ae4e544b231141c2265ec72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Storage/Fonts/Nanum.prefab
+Dependencies: []

@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3415963552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67eedc2d69b06bdc0f78a98502edd600
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/fire_b.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C01.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C03_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C07.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/spray_particle.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C09_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C02.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C09.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C11.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_a_add.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_a_C02.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/ani_butterfly.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/No Name.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/obj_effect_light_cylinder.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/plan_1X1.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C06.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C01_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/effect_holecup.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_b_add.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/hole.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C03.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C08.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/smoke_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/holecup0.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/1X1_plan.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/moon.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_alpha_C06.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C07_b.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/fire_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C11_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/collision.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/holecover.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_b.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/p_fire.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_C02.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C10.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_alpha_C03.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_alpha_b_C03.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/water_a.mat
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Prefab/FBX/Materials/sky_C06_a.mat
+Dependencies:
+- E:/git/beatblock/AssetBundles/Android/bundle_default_background_common_bundle

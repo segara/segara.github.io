@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2657529329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e90cff3dff2f017ccd2882f8359f42ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0cf49e538270056ea669c020fddacad
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: a6c64abb919c1f54aa3a1306fa3634c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/Achievement.asset
+Dependencies: []
