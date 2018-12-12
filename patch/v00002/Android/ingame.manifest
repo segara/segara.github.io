@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2299584952
+CRC: 4064124047
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 70b39ab5035d6fb49bb53bf79fd06502
+    Hash: ddd84940656e8b8d07556cddbd78a572
   TypeTreeHash:
     serializedVersion: 2
     Hash: db120d334f86f94367224e9eac6f5f95
@@ -133,3 +133,4 @@ Assets:
 - Assets/AssetBundleResource/InGame.unity
 Dependencies:
 - D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/nanum_bundle
+- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/ui_bundle

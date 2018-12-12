@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 3670333790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05bda69e37e8112f1607554561068c01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5234b10ce1dd5595c15bc718797dd7f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87a8bd60da7b4d24a8bf2abe94c05d19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53e8e103f0eefb349917fe59ed7e98a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f8585899a6b1e4d9c2f2dafefd0626, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15bb6a69d838e76479beebe5ef3dba8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c88765a8d162bb4498f669da4d0d494, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efc7af9d4d7150047bf1dece18c783e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc41269f3025bac41b865056bf081eb6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/TileObjects/5131_tree3.prefab
+- Assets/AssetBundleResource/TileObjects/2101_mbox0.prefab
+- Assets/AssetBundleResource/TileObjects/200108_Cactus.prefab
+- Assets/AssetBundleResource/TileObjects/200114_grass.prefab
+- Assets/AssetBundleResource/TileObjects/5116_flowerpot1.prefab
+- Assets/AssetBundleResource/TileObjects/200115_skull.prefab
+- Assets/AssetBundleResource/TileObjects/3103_bigwheel.prefab
+- Assets/AssetBundleResource/TileObjects/Floor_Grass_3x3.prefab
+- Assets/AssetBundleResource/TileObjects/3114_candy.prefab
+- Assets/AssetBundleResource/TileObjects/3112_miscShop.prefab
+- Assets/AssetBundleResource/TileObjects/3110_market.prefab
+- Assets/AssetBundleResource/TileObjects/3118_Fashion.prefab
+- Assets/AssetBundleResource/TileObjects/3115_hall.prefab
+- Assets/AssetBundleResource/TileObjects/5117_tile.prefab
+- Assets/AssetBundleResource/TileObjects/200111_Stone_floor.prefab
+- Assets/AssetBundleResource/TileObjects/200106_Flowers.prefab
+- Assets/AssetBundleResource/TileObjects/200112_Stone_low1.prefab
+- Assets/AssetBundleResource/TileObjects/Floor_Grass_1x1.prefab
+- Assets/AssetBundleResource/TileObjects/3102_bigwheel.prefab
+- Assets/AssetBundleResource/TileObjects/200116_tree1.prefab
+- Assets/AssetBundleResource/TileObjects/6101_road.prefab
+- Assets/AssetBundleResource/TileObjects/3119_Mail.prefab
+- Assets/AssetBundleResource/TileObjects/Floor_Grass_2x2.prefab
+- Assets/AssetBundleResource/TileObjects/3109_coffee.prefab
+- Assets/AssetBundleResource/TileObjects/200110_Stone4.prefab
+- Assets/AssetBundleResource/TileObjects/6102_road2.prefab
+- Assets/AssetBundleResource/TileObjects/200101_Stone1.prefab
+- Assets/AssetBundleResource/TileObjects/3104_bigwheel.prefab
+- Assets/AssetBundleResource/TileObjects/Heal_Particle.prefab
+- Assets/AssetBundleResource/TileObjects/200107_Cactus.prefab
+- Assets/AssetBundleResource/TileObjects/6103_road3.prefab
+- Assets/AssetBundleResource/TileObjects/200102_Stone2.prefab
+- Assets/AssetBundleResource/TileObjects/100101_quest1.prefab
+- Assets/AssetBundleResource/TileObjects/3113_wind.prefab
+- Assets/AssetBundleResource/TileObjects/3117_Hotel.prefab
+- Assets/AssetBundleResource/TileObjects/3106_hotel.prefab
+- Assets/AssetBundleResource/TileObjects/6104_road4.prefab
+- Assets/AssetBundleResource/TileObjects/200109_Rocks.prefab
+- Assets/AssetBundleResource/TileObjects/3116_lighthouse.prefab
+- Assets/AssetBundleResource/TileObjects/3120_Pawn.prefab
+- Assets/AssetBundleResource/TileObjects/3111_kiosk.prefab
+- Assets/AssetBundleResource/TileObjects/7102_bridge.prefab
+- Assets/AssetBundleResource/TileObjects/200105_Trunk3.prefab
+- Assets/AssetBundleResource/TileObjects/200104_Trunk.prefab
+- Assets/AssetBundleResource/TileObjects/200103_Stone3.prefab
+- Assets/AssetBundleResource/TileObjects/3121_Restaurant.prefab
+- Assets/AssetBundleResource/TileObjects/200113_Stone_low2.prefab
+Dependencies:
+- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/bundle_default_background_c02_bundle

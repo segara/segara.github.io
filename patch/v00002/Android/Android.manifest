@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 46851421
+CRC: 1904915153
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -36,6 +36,7 @@ AssetBundleManifest:
       Name: ingame
       Dependencies:
         Dependency_0: nanum_bundle
+        Dependency_1: ui_bundle
     Info_11:
       Name: opening_bundle
       Dependencies: {}
@@ -51,3 +52,12 @@ AssetBundleManifest:
     Info_15:
       Name: transitions_bundle
       Dependencies: {}
+    Info_16:
+      Name: ui_bundle
+      Dependencies:
+        Dependency_0: emoji
+        Dependency_1: nanum_bundle
+    Info_17:
+      Name: tile_object_bundle
+      Dependencies:
+        Dependency_0: bundle_default_background_c02_bundle
