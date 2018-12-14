@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2730794132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02ca52a0d1f3c16a295946e505f1b397
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b4f1593cdf7a1ab33da9444111cb398
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundle/Default/Background/C02_BUNDLE/Texture/moon_star_C02.psd
+- Assets/Bundle/Default/Background/C02_BUNDLE/Prefab/FBX/Materials/moon_star_C02_DISABLE.mat
+- Assets/Bundle/Default/Background/C02_BUNDLE/Texture/flare_moon.psd
+- Assets/Bundle/Default/Background/C02_BUNDLE/Prefab/FBX/Materials/flare_moon.mat
+- Assets/Bundle/Default/Background/C02_BUNDLE/Prefab/FBX/prefabs/crescent_moon_C02_pre.prefab
+- Assets/Bundle/Default/Background/C02_BUNDLE/Prefab/FBX/Materials/moon_star_C02.mat
+Dependencies: []
