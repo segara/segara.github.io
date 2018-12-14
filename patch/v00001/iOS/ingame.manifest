@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 683052738
+CRC: 2770403498
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6e43f40e7f3632e72e0c8177797b2e5
+    Hash: 947ad70d7f068117ecea9b90cff1a6e1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9c82a5f1a276303a66be8ce6e915934d
+    Hash: db120d334f86f94367224e9eac6f5f95
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,8 +32,6 @@ ClassTypes:
 - Class: 64
   Script: {instanceID: 0}
 - Class: 81
-  Script: {instanceID: 0}
-- Class: 82
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
@@ -86,6 +84,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ef7a2a83a2cfc48feb29f629de1d0aab, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 2e351d04dc1454a9c96e5f1f7337f701, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9b250fb5b774f4f9aa96a1edf364062a, type: 3}
@@ -108,6 +108,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 2718e86ccc1825b40a8907965555f30b, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: f4cc30ddaf4444ce0a257651674d7b39, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f6b5f1edee180ac4983a1618746e3d3d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d703ecafe348246f6975b21046e42a55, type: 3}
@@ -129,4 +131,6 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/InGame.unity
-Dependencies: []
+Dependencies:
+- /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/nanum_bundle
+- /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/ui_bundle
