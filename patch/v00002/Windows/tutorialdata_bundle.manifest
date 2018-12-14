@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3740174949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 330471c0715b0a187c1f5e88cdd71e21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 945f17203c81322be081f608c5449c57
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ad5a9e4ccef5c94483e48436919aaa1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/Tutorial.asset
+Dependencies: []
