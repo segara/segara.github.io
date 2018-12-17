@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2071710317
+CRC: 1952597226
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0e8f8e951d6bc07c34011e9bb88067bb
+    Hash: c85f4d20cc40ab292fed5b9befa09556
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 357248920404cce29acdaa481b1c5df7
+    Hash: a969ebaeb9ada72eebb84ccb83940859
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -15,4 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/GameItem.asset
+- Assets/Resources/Data/GameItem.asset
 Dependencies: []
