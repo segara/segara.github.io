@@ -1,63 +1,56 @@
 ManifestFileVersion: 0
-CRC: 1677074576
+CRC: 3152632579
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: bundle_default_background_c02_bundle
-      Dependencies: {}
-    Info_1:
       Name: emoji
       Dependencies: {}
-    Info_2:
-      Name: bundle_default_background_common_bundle
-      Dependencies: {}
-    Info_3:
+    Info_1:
       Name: tutorialdata_bundle
       Dependencies: {}
-    Info_4:
+    Info_2:
       Name: gameitem_bundle
       Dependencies: {}
-    Info_5:
+    Info_3:
       Name: achieve_bundle
       Dependencies: {}
-    Info_6:
+    Info_4:
       Name: bgm_bundle
       Dependencies: {}
-    Info_7:
+    Info_5:
       Name: inappshop_bundle
       Dependencies: {}
-    Info_8:
+    Info_6:
       Name: localize_bundle
       Dependencies: {}
-    Info_9:
+    Info_7:
       Name: musicscore_bundle
       Dependencies: {}
-    Info_10:
+    Info_8:
       Name: ingame
       Dependencies:
         Dependency_0: nanum_bundle
         Dependency_1: ui_bundle
-    Info_11:
+    Info_9:
       Name: transitions_bundle
       Dependencies: {}
-    Info_12:
+    Info_10:
       Name: nanum_bundle
       Dependencies: {}
-    Info_13:
+    Info_11:
       Name: opening_bundle
       Dependencies: {}
-    Info_14:
+    Info_12:
       Name: scene_objects_bundle
       Dependencies: {}
-    Info_15:
+    Info_13:
       Name: particlemgr_bundle
       Dependencies: {}
-    Info_16:
+    Info_14:
       Name: ui_bundle
       Dependencies:
         Dependency_0: emoji
         Dependency_1: nanum_bundle
-    Info_17:
+    Info_15:
       Name: tile_object_bundle
-      Dependencies:
-        Dependency_0: bundle_default_background_c02_bundle
+      Dependencies: {}

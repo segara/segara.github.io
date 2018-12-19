@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2770403498
+CRC: 50334367
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77710ad0e2ff2a381661e3627d2416f0
+    Hash: db47c7aa7388f15bdd063baa90675ca9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: db120d334f86f94367224e9eac6f5f95
+    Hash: 8cdd6d8b878cdec2cb20c732945d180b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -94,6 +94,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f2ec2b96de5640e42a622fc3064f1c80, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 3c493f47c0efd6e4eba2d3e1bcc47ec6, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 19c24d283752b41b38a9e9930b99f435, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 26b532996997c4f4293571eb3838c043, type: 3}
@@ -132,5 +134,5 @@ ClassTypes:
 Assets:
 - Assets/AssetBundleResource/InGame.unity
 Dependencies:
-- /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/nanum_bundle
-- /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/ui_bundle
+- /Volumes/prog/iOS/AssetBundles/iOS/nanum_bundle
+- /Volumes/prog/iOS/AssetBundles/iOS/ui_bundle

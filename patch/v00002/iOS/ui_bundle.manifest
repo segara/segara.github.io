@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4063586598
+CRC: 654705885
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 306be293a65d647a5b43d2bbfa7c3035
+    Hash: ab4a65d7f36ca682947b0c5d38820e6d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b766210387479fcc8824ab5559e41f4b
+    Hash: a4d066118019c1e18274b6e9262246b9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -361,7 +361,7 @@ Assets:
 - Assets/AssetBundleResource/UI/UI_Root.prefab
 - Assets/AssetBundleResource/UI/S3_Canvas.prefab
 - Assets/AssetBundleResource/UI/FriendResultUI.prefab
-- Assets/AssetBundleResource/UI/UI_Root_POPUP.prefab
+- Assets/Resources/Prefabs/UI/UI_Root_POPUP.prefab
 - Assets/AssetBundleResource/UI/BlockHud01.prefab
 - Assets/AssetBundleResource/UI/UI_Root_YesNoButton.prefab
 - Assets/AssetBundleResource/UI/UIRoot_Ingame.prefab
