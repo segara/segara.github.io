@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3670333790
+CRC: 3366575226
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 05bda69e37e8112f1607554561068c01
+    Hash: 9a1b830ae3b862e2a0521082444f9064
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5234b10ce1dd5595c15bc718797dd7f1
+    Hash: 96a84155f5b241f6e79d0a01b3d479cb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -49,6 +49,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 09f8585899a6b1e4d9c2f2dafefd0626, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 465a2109086084f418fb485bcfc0fcf1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 15bb6a69d838e76479beebe5ef3dba8c, type: 3}
 - Class: 114
@@ -111,5 +113,4 @@ Assets:
 - Assets/AssetBundleResource/TileObjects/200103_Stone3.prefab
 - Assets/AssetBundleResource/TileObjects/3121_Restaurant.prefab
 - Assets/AssetBundleResource/TileObjects/200113_Stone_low2.prefab
-Dependencies:
-- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/bundle_default_background_c02_bundle
+Dependencies: []
