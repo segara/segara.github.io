@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2094200986
+CRC: 3534449827
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f97ec956e9cb42c0a47aac0c0e6a5386
+    Hash: 127f2ea1d652ed6cd7f3556345b9b5ed
   TypeTreeHash:
     serializedVersion: 2
     Hash: a4d066118019c1e18274b6e9262246b9
@@ -393,5 +393,5 @@ Assets:
 - Assets/AssetBundleResource/UI/Button.prefab
 - Assets/AssetBundleResource/UI/MatchResultUI.prefab
 Dependencies:
-- /Users/Shared/Jenkins/remoting/workspace/Android/AssetBundles/Android/emoji
-- /Users/Shared/Jenkins/remoting/workspace/Android/AssetBundles/Android/nanum_bundle
+- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/emoji
+- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/nanum_bundle
