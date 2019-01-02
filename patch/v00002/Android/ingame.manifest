@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1174886407
+CRC: 3842441078
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a359bc24f0416bf7abd04d44d5ea2ce3
+    Hash: fd379614668028297c8e0cae3d9b3997
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 129179d9072e347cbbac1b4345dc9d60
+    Hash: 6ac322d8a76f928c875c1120374820d9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -86,6 +86,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 2e351d04dc1454a9c96e5f1f7337f701, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 120a6b5402093174f815ae65b3105942, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9b250fb5b774f4f9aa96a1edf364062a, type: 3}
@@ -115,8 +117,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f6b5f1edee180ac4983a1618746e3d3d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d703ecafe348246f6975b21046e42a55, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 120a6b5402093174f815ae65b3105942, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 124
@@ -136,5 +136,5 @@ ClassTypes:
 Assets:
 - Assets/AssetBundleResource/InGame.unity
 Dependencies:
-- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/nanum_bundle
-- D:/gitProj/beatBlock2018/beatblock/AssetBundles/Android/ui_bundle
+- /Users/Shared/Jenkins/remoting/workspace/Android/AssetBundles/Android/ui_bundle
+- /Users/Shared/Jenkins/remoting/workspace/Android/AssetBundles/Android/nanum_bundle
