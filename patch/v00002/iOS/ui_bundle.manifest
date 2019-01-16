@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4180058641
+CRC: 4276062809
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0432c871d209444bfdddd57700bce115
+    Hash: d2065b5d4d0254ca75cf0689c48969e4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9ce595a26b2d6130dbb67265c253938a
+    Hash: 46c7f6bf9454bd1a95591ffeb9070911
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -320,6 +320,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 6418617faaffd514faeefc32f4804d04, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: dc41269f3025bac41b865056bf081eb6, type: 3}
 - Class: 115
   Script: {instanceID: 0}
@@ -352,6 +354,7 @@ Assets:
 - Assets/AssetBundleResource/UI/PopupConfirm.prefab
 - Assets/AssetBundleResource/UI/PopupSetting.prefab
 - Assets/AssetBundleResource/UI/UIRoot_Ingame_Time.prefab
+- Assets/AssetBundleResource/UI/PopupAgreement.prefab
 - Assets/AssetBundleResource/UI/InAppEnergyUI.prefab
 - Assets/AssetBundleResource/UI/SimpleGoldShopWnd.prefab
 - Assets/AssetBundleResource/UI/InAppCashUI.prefab
