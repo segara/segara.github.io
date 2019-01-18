@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3619696240
+CRC: 2880950266
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f66c66212553ed8b606a9320793506a1
+    Hash: a13011503a1963d3c339eacea819bea0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9ce595a26b2d6130dbb67265c253938a
+    Hash: 98c9f05ade92cd895c2c2d898e0d9f1b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -226,8 +226,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f2b4d5d7ab10d334a8d53dd7bb4ec2ed, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0df628083e0fc4428ad7d1f900749f7f, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 78ffe638ca89485449c48e8c26549075, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5ecbe8806d53db45ab33255e5d70cf4, type: 3}
@@ -320,7 +318,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 6418617faaffd514faeefc32f4804d04, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: dc41269f3025bac41b865056bf081eb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c97afc556caea1c44969477eb7ddec74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dd219ac2bff62648a6ae1c651c2eb5b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 124
@@ -352,6 +356,7 @@ Assets:
 - Assets/AssetBundleResource/UI/PopupConfirm.prefab
 - Assets/AssetBundleResource/UI/PopupSetting.prefab
 - Assets/AssetBundleResource/UI/UIRoot_Ingame_Time.prefab
+- Assets/AssetBundleResource/UI/PopupAgreement.prefab
 - Assets/AssetBundleResource/UI/InAppEnergyUI.prefab
 - Assets/AssetBundleResource/UI/SimpleGoldShopWnd.prefab
 - Assets/AssetBundleResource/UI/InAppCashUI.prefab

@@ -18,11 +18,11 @@
     <Item FileName="musicscore_bundle" Ver="0" CRC="$CRC" FileSize="2275" />
     <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2060027" />
     <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2523435" />
-    <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="193812" />
+    <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="273690" />
     <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="892487" />
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1786395" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3852222" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3862300" />
   </Asset>
 </db>
