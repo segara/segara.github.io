@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3136955796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50e0329ea1fdb78509a6b3f3f7e4651c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Storage/COMMON_BUNDLE/COMMON_BUNDLE/Texture/sky_C09_b.psd
+Dependencies: []
