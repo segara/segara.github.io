@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 342532848
+CRC: 1799732541
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5667ec6ad4b0a786c95b717467361465
+    Hash: 53f336b2a669b45c7175ada81451a3a9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 439adcfe52c15acd1bcee803412b7ba1
+    Hash: 71c2a7342abbbbedd137229b9e692ba5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -61,6 +61,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7004ee9046a4241e49f14cb2987ce427, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce6f20d0a2d760749b9d540fafd47217, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 930313d0d0a6d064180aa50378ce3ecc, type: 3}
 - Class: 114
@@ -217,6 +219,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 263a90a6b06e50144940a9b731f18273, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9267f9c6f687bce40b3137d34bc85012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b91e06734cb97344b2cf0ba764b181b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0a19ce678b0df41288ceb117c3dce3dd, type: 3}
 - Class: 114
@@ -388,6 +392,7 @@ Assets:
 - Assets/AssetBundleResource/UI/PopupMailSend.prefab
 - Assets/AssetBundleResource/UI/S3.prefab
 - Assets/AssetBundleResource/UI/UIRoot_Ingame_Count.prefab
+- Assets/AssetBundleResource/UI/AchieveUI.prefab
 - Assets/AssetBundleResource/UI/MultiClearPanel.prefab
 - Assets/AssetBundleResource/UI/UI_MultiGame.prefab
 - Assets/AssetBundleResource/UI/UI_Root_BottomMenu.prefab
