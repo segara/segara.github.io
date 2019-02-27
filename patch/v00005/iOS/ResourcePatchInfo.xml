@@ -4,7 +4,7 @@
     <App Ver="$VERSION" />
   </Info>
   <PatchInfo>
-    <URLs ServerType="$SERVER_TYPE" Target="iOS" URL="$ASSET_BUNDLE_URL" ResourceVer="4" />
+    <URLs ServerType="$SERVER_TYPE" Target="iOS" URL="$ASSET_BUNDLE_URL" ResourceVer="5" />
   </PatchInfo>
   <Asset>
     <Item FileName=".DS_Store" Ver="0" CRC="$CRC" FileSize="6148" />
@@ -27,6 +27,6 @@
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1799048" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200418" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3904049" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3903280" />
   </Asset>
 </db>
