@@ -15,10 +15,10 @@
     <Item FileName="bundle_default_background_common_bundle" Ver="0" CRC="$CRC" FileSize="14081" />
     <Item FileName="emoji" Ver="0" CRC="$CRC" FileSize="10555" />
     <Item FileName="gameitem_bundle" Ver="0" CRC="$CRC" FileSize="1301" />
-    <Item FileName="iOS" Ver="0" CRC="$CRC" FileSize="1433" />
+    <Item FileName="iOS" Ver="0" CRC="$CRC" FileSize="1435" />
     <Item FileName="inappshop_bundle" Ver="0" CRC="$CRC" FileSize="1602" />
     <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2213685" />
-    <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="9746" />
+    <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="9786" />
     <Item FileName="musicscore_bundle" Ver="0" CRC="$CRC" FileSize="2275" />
     <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2063398" />
     <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2578116" />
@@ -27,6 +27,6 @@
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1799048" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200418" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3903189" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3864146" />
   </Asset>
 </db>
