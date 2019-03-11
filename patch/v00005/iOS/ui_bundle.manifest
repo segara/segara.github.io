@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4103037932
+CRC: 241155262
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 82ba7db919cff36d57185288942fa729
+    Hash: b2e9f0db9f9b5c25aa00a18e33ef297d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 71c2a7342abbbbedd137229b9e692ba5
+    Hash: fb387b9536ebd37368cc67b64f4adfdc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -371,7 +371,6 @@ Assets:
 - Assets/Resources/Prefabs/UI/UI_Root_POPUP.prefab
 - Assets/AssetBundleResource/UI/BlockHud01.prefab
 - Assets/AssetBundleResource/UI/UI_Root_YesNoButton.prefab
-- Assets/AssetBundleResource/UI/UIRoot_Ingame.prefab
 - Assets/AssetBundleResource/UI/UI_POPUP_Instant.prefab
 - Assets/AssetBundleResource/UI/FailPanel.prefab
 - Assets/AssetBundleResource/UI/UI_Root_Top.prefab
