@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1101530551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67a483e48635f3d0a31ef358bbc52ed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/PixelArt_thing.png
+- Assets/AssetBundleResource/Fade_LeftToRight.png
+- Assets/AssetBundleResource/PixelArt_Square.png
+- Assets/AssetBundleResource/PixelArt_Swirl.png
+- Assets/AssetBundleResource/PixelArt_swipe.png
+- Assets/AssetBundleResource/Fade_RightToLeft.png
+Dependencies: []
