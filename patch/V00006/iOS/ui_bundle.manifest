@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 397797734
+CRC: 627287712
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 556731ed5053882de839c73139e6b7a6
+    Hash: dd0381c12da2e866cdb9e3d5572113b2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c10058a75daabe99e2b72618dccff854
+    Hash: adf468b9046a89ed9b59d9d64ef17cda
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -200,8 +200,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8a9ee4d47a566844d84a4614f0a165c1, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: b45fbae4071166c48b13d1d7aa5fb9b3, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c97afc556caea1c44969477eb7ddec74, type: 3}
@@ -235,8 +233,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f2b4d5d7ab10d334a8d53dd7bb4ec2ed, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 78ffe638ca89485449c48e8c26549075, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 0014f478effee4b4ba1c1cc9aeb1a300, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5ecbe8806d53db45ab33255e5d70cf4, type: 3}
 - Class: 114
@@ -339,10 +335,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 132
   Script: {instanceID: 0}
-- Class: 198
-  Script: {instanceID: 0}
-- Class: 199
-  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 221
@@ -381,7 +373,7 @@ Assets:
 - Assets/AssetBundleResource/UI/UI_Root_YesNoButton.prefab
 - Assets/AssetBundleResource/UI/UI_POPUP_Instant.prefab
 - Assets/AssetBundleResource/UI/FailPanel.prefab
-- Assets/AssetBundleResource/UI/UI_Root_Top_ui.prefab
+- Assets/AssetBundleResource/UI/UI_Root_Top.prefab
 - Assets/AssetBundleResource/UI/UI_RewardBtn.prefab
 - Assets/AssetBundleResource/UI/PauseUI.prefab
 - Assets/AssetBundleResource/UI/UI_Root_TutoMask.prefab
