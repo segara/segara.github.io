@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 787212081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e6ee8bb4e8b2537224fcb8f0b12878a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca1329924c7ec746afb41f7f03e45628
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b440c531b522cb4288dfc82c1a7b118, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/Localize.asset
+Dependencies: []
