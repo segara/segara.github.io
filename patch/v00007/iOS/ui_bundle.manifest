@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 397797734
+CRC: 1280141312
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 556731ed5053882de839c73139e6b7a6
+    Hash: 9aea2a3f106464f7fe8ac8a9ccc6d42b
   TypeTreeHash:
     serializedVersion: 2
     Hash: c10058a75daabe99e2b72618dccff854
@@ -407,6 +407,7 @@ Assets:
 - Assets/AssetBundleResource/UI/Marker.prefab
 - Assets/AssetBundleResource/UI/Button.prefab
 - Assets/AssetBundleResource/UI/MatchResultUI.prefab
+- Assets/AssetBundleResource/UI/UI_Root_Top.prefab
 Dependencies:
 - /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/emoji
 - /Users/Shared/Jenkins/remoting/workspace/iOS/AssetBundles/iOS/nanum_bundle
