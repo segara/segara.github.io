@@ -24,6 +24,6 @@
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1782591" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3882782" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3881442" />
   </Asset>
 </db>
