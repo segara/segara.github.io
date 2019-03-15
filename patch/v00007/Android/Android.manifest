@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 226491489
+CRC: 2012551667
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -53,4 +53,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_15:
       Name: particlemgr_bundle
+      Dependencies: {}
+    Info_16:
+      Name: room_dummy
       Dependencies: {}
