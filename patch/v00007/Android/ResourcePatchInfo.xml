@@ -7,23 +7,23 @@
     <URLs ServerType="$SERVER_TYPE" Target="Android" URL="$ASSET_BUNDLE_URL" ResourceVer="5" />
   </PatchInfo>
   <Asset>
-    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1468" />
+    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1469" />
     <Item FileName="achieve_bundle" Ver="0" CRC="$CRC" FileSize="1402" />
     <Item FileName="bgm_bundle" Ver="0" CRC="$CRC" FileSize="7683037" />
     <Item FileName="emoji" Ver="0" CRC="$CRC" FileSize="10563" />
     <Item FileName="gameitem_bundle" Ver="0" CRC="$CRC" FileSize="1301" />
     <Item FileName="inappshop_bundle" Ver="0" CRC="$CRC" FileSize="1602" />
-    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2204699" />
+    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2204743" />
     <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="9835" />
     <Item FileName="musicscore_bundle" Ver="0" CRC="$CRC" FileSize="2275" />
     <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2060027" />
     <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2525011" />
     <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="274500" />
-    <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1471" />
+    <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1479" />
     <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="893289" />
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1782591" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3881317" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3882783" />
   </Asset>
 </db>
