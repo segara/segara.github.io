@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1692624237
+CRC: 2748852611
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -53,4 +53,7 @@ AssetBundleManifest:
         Dependency_1: nanum_bundle
     Info_15:
       Name: tile_object_bundle
+      Dependencies: {}
+    Info_16:
+      Name: room_dummy
       Dependencies: {}
