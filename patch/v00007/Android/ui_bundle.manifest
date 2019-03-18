@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2359174843
+CRC: 3114026338
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75e70b324267186b34b3a4964946b894
+    Hash: 184ba58f8a22f15240c53ac723ce68ac
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dde39d9d26caac87d3d74a2a70ebe647
+    Hash: ee2af16e9e978ad823b402c65d3bdd99
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -276,6 +276,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8ee1624b2d0d51b42a8f6238c5328bc7, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 8db0996b710a4094ebcfe21fdb2fda86, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d6bc01eb564f142a1ada6ced5215636a, type: 3}
@@ -357,6 +359,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/UI/FindFriendUI.prefab
+- Assets/AssetBundleResource/UI/LanguagePopup.prefab
 - Assets/AssetBundleResource/UI/FriendsListUI.prefab
 - Assets/AssetBundleResource/UI/TimeAttackClearPanel.prefab
 - Assets/AssetBundleResource/UI/PostListUI.prefab

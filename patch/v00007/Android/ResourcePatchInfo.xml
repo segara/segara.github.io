@@ -7,7 +7,7 @@
     <URLs ServerType="$SERVER_TYPE" Target="Android" URL="$ASSET_BUNDLE_URL" ResourceVer="5" />
   </PatchInfo>
   <Asset>
-    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1469" />
+    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1472" />
     <Item FileName="achieve_bundle" Ver="0" CRC="$CRC" FileSize="1402" />
     <Item FileName="bgm_bundle" Ver="0" CRC="$CRC" FileSize="7681618" />
     <Item FileName="emoji" Ver="0" CRC="$CRC" FileSize="10563" />
@@ -24,6 +24,6 @@
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1782591" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3836609" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3838665" />
   </Asset>
 </db>
