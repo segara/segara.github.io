@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 4038725483
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: emoji
+      Dependencies: {}
+    Info_1:
+      Name: tutorialdata_bundle
+      Dependencies: {}
+    Info_2:
+      Name: gameitem_bundle
+      Dependencies: {}
+    Info_3:
+      Name: achieve_bundle
+      Dependencies: {}
+    Info_4:
+      Name: bgm_bundle
+      Dependencies: {}
+    Info_5:
+      Name: inappshop_bundle
+      Dependencies: {}
+    Info_6:
+      Name: localize_bundle
+      Dependencies: {}
+    Info_7:
+      Name: musicscore_bundle
+      Dependencies: {}
+    Info_8:
+      Name: ingame
+      Dependencies:
+        Dependency_0: nanum_bundle
+        Dependency_1: ui_bundle
+    Info_9:
+      Name: transitions_bundle
+      Dependencies: {}
+    Info_10:
+      Name: nanum_bundle
+      Dependencies: {}
+    Info_11:
+      Name: opening_bundle
+      Dependencies: {}
+    Info_12:
+      Name: scene_objects_bundle
+      Dependencies: {}
+    Info_13:
+      Name: particlemgr_bundle
+      Dependencies: {}
+    Info_14:
+      Name: ui_bundle
+      Dependencies:
+        Dependency_0: emoji
+        Dependency_1: nanum_bundle
+    Info_15:
+      Name: tile_object_bundle
+      Dependencies: {}
+    Info_16:
+      Name: room_dummy
+      Dependencies: {}

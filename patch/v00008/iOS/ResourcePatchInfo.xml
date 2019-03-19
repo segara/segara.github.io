@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+  <Info>
+    <App Ver="$VERSION" />
+  </Info>
+  <PatchInfo>
+    <URLs ServerType="$SERVER_TYPE" Target="iOS" URL="$ASSET_BUNDLE_URL" ResourceVer="5" />
+  </PatchInfo>
+  <Asset>
+    <Item FileName=".DS_Store" Ver="0" CRC="$CRC" FileSize="6148" />
+    <Item FileName="achieve_bundle" Ver="0" CRC="$CRC" FileSize="1402" />
+    <Item FileName="bg-mat.bundle" Ver="0" CRC="$CRC" FileSize="1434299" />
+    <Item FileName="bgm_bundle" Ver="0" CRC="$CRC" FileSize="7681618" />
+    <Item FileName="bundle_default_background_c02_bundle" Ver="0" CRC="$CRC" FileSize="25783" />
+    <Item FileName="bundle_default_background_common_bundle" Ver="0" CRC="$CRC" FileSize="14081" />
+    <Item FileName="emoji" Ver="0" CRC="$CRC" FileSize="10555" />
+    <Item FileName="gameitem_bundle" Ver="0" CRC="$CRC" FileSize="1301" />
+    <Item FileName="iOS" Ver="0" CRC="$CRC" FileSize="1465" />
+    <Item FileName="inappshop_bundle" Ver="0" CRC="$CRC" FileSize="1602" />
+    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2213702" />
+    <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="12541" />
+    <Item FileName="musicscore_bundle" Ver="0" CRC="$CRC" FileSize="2275" />
+    <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2063398" />
+    <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2578116" />
+    <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="279339" />
+    <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1480" />
+    <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="1090231" />
+    <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1798805" />
+    <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200418" />
+    <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3869556" />
+  </Asset>
+</db>
