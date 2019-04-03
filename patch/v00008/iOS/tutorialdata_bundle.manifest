@@ -1,35 +1,18 @@
 ManifestFileVersion: 0
-CRC: 4111352153
+CRC: 3466820024
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ebae6e078a64c5b3b0aff7648a138c82
+    Hash: ad558f2f1a6f7a3489e5fd6d0f3e6b54
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e698d75b894200b42c2e5643c0b8077a
+    Hash: 945f17203c81322be081f608c5449c57
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
-- Class: 4
-  Script: {instanceID: 0}
-- Class: 21
-  Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 3ad5a9e4ccef5c94483e48436919aaa1, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundleResource/Tutorial.asset
-- Assets/AssetBundleResource/Tank.fbx
 Dependencies: []
