@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1870910450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63ad2e5a72a84e3f208efdacfd140bd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleResource/DummyImg/img_dummy_10.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_5.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_3.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_6.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_7.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_9.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_1.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_2.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_4.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_0.jpg
+- Assets/AssetBundleResource/DummyImg/img_dummy_8.jpg
+Dependencies: []

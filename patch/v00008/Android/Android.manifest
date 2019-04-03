@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 759849846
+CRC: 1304971440
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -56,4 +56,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_16:
       Name: room_dummy
+      Dependencies: {}
+    Info_17:
+      Name: img_dummy
       Dependencies: {}
