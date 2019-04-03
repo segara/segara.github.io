@@ -7,12 +7,12 @@
     <URLs ServerType="$SERVER_TYPE" Target="Android" URL="$ASSET_BUNDLE_URL" ResourceVer="5" />
   </PatchInfo>
   <Asset>
-    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1495" />
+    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1496" />
     <Item FileName="achieve_bundle" Ver="0" CRC="$CRC" FileSize="1402" />
     <Item FileName="bgm_bundle" Ver="0" CRC="$CRC" FileSize="7683037" />
     <Item FileName="emoji" Ver="0" CRC="$CRC" FileSize="10563" />
     <Item FileName="gameitem_bundle" Ver="0" CRC="$CRC" FileSize="1301" />
-    <Item FileName="img_dummy" Ver="0" CRC="$CRC" FileSize="286121" />
+    <Item FileName="img_dummy" Ver="0" CRC="$CRC" FileSize="281207" />
     <Item FileName="inappshop_bundle" Ver="0" CRC="$CRC" FileSize="1602" />
     <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2204743" />
     <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="12542" />
@@ -25,6 +25,6 @@
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1789822" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3845857" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3849371" />
   </Asset>
 </db>
