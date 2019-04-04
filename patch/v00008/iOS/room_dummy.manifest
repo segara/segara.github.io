@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3699975984
+CRC: 712723754
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 85493970808cbe0f196f46bcd7347cc5
+    Hash: 6b89e0821ebaad31caf751ca093bdadd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -12,7 +12,6 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBundleResource/Dummy/room_dummy_0.txt
 - Assets/AssetBundleResource/Dummy/room_dummy_10.txt
 - Assets/AssetBundleResource/Dummy/room_dummy_9.txt
 - Assets/AssetBundleResource/Dummy/room_dummy_6.txt
