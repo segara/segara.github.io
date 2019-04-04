@@ -20,7 +20,7 @@
     <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2060027" />
     <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2525011" />
     <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="274500" />
-    <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1479" />
+    <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1608" />
     <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="893289" />
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1789822" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
