@@ -18,14 +18,14 @@
     <Item FileName="iOS" Ver="0" CRC="$CRC" FileSize="1487" />
     <Item FileName="img_dummy" Ver="0" CRC="$CRC" FileSize="334118" />
     <Item FileName="inappshop_bundle" Ver="0" CRC="$CRC" FileSize="1602" />
-    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2211759" />
+    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2213266" />
     <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="12568" />
     <Item FileName="musicscore_bundle" Ver="0" CRC="$CRC" FileSize="2275" />
     <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2063398" />
     <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2578116" />
     <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="279339" />
     <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1607" />
-    <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="1173706" />
+    <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="1175199" />
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1806860" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200418" />
     <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
