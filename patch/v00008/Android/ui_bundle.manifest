@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1744247455
+CRC: 3526093477
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2d50c7dd53e7908cd50cedc55adc3d6
+    Hash: 4d9fd9c6010dab35fcf08752adb64c5f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 31e5baafe9a4eac6167e608221cbf45f
+    Hash: fe3096e73e244de0b84284a7e4b22961
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -222,6 +222,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 9267f9c6f687bce40b3137d34bc85012, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 42340807d2ff38649abec4871f60ae91, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 2b91e06734cb97344b2cf0ba764b181b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0a19ce678b0df41288ceb117c3dce3dd, type: 3}
@@ -278,6 +280,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8db0996b710a4094ebcfe21fdb2fda86, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: acfa2b6b3f019624ea40a6583cc048e6, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d6bc01eb564f142a1ada6ced5215636a, type: 3}
@@ -313,6 +317,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 4eabb2ada5eeacb41a21d9c774ec81ed, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 136409ed956aef24688a4cd6119d142b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6c04cedb1f31b644ac6aded0486938a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d62cc70ed2b54f44088f072eb95bee5b, type: 3}
 - Class: 114
@@ -377,6 +383,7 @@ Assets:
 - Assets/AssetBundleResource/UI/SimpleScoreWnd.prefab
 - Assets/AssetBundleResource/UI/PopupReadMail.prefab
 - Assets/AssetBundleResource/UI/UI_Root.prefab
+- Assets/AssetBundleResource/UI/UI_Root_TutoMask_simple.prefab
 - Assets/AssetBundleResource/UI/S3_Canvas.prefab
 - Assets/AssetBundleResource/UI/FriendResultUI.prefab
 - Assets/Resources/Prefabs/UI/UI_Root_POPUP.prefab

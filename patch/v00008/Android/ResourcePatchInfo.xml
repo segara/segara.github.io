@@ -7,24 +7,24 @@
     <URLs ServerType="$SERVER_TYPE" Target="Android" URL="$ASSET_BUNDLE_URL" ResourceVer="5" />
   </PatchInfo>
   <Asset>
-    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1493" />
+    <Item FileName="Android" Ver="0" CRC="$CRC" FileSize="1492" />
     <Item FileName="achieve_bundle" Ver="0" CRC="$CRC" FileSize="1402" />
     <Item FileName="bgm_bundle" Ver="0" CRC="$CRC" FileSize="7683037" />
     <Item FileName="emoji" Ver="0" CRC="$CRC" FileSize="10563" />
     <Item FileName="gameitem_bundle" Ver="0" CRC="$CRC" FileSize="1301" />
     <Item FileName="img_dummy" Ver="0" CRC="$CRC" FileSize="281207" />
     <Item FileName="inappshop_bundle" Ver="0" CRC="$CRC" FileSize="1602" />
-    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2204743" />
-    <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="12569" />
+    <Item FileName="ingame" Ver="0" CRC="$CRC" FileSize="2200348" />
+    <Item FileName="localize_bundle" Ver="0" CRC="$CRC" FileSize="12625" />
     <Item FileName="musicscore_bundle" Ver="0" CRC="$CRC" FileSize="2275" />
     <Item FileName="nanum_bundle" Ver="0" CRC="$CRC" FileSize="2060027" />
     <Item FileName="opening_bundle" Ver="0" CRC="$CRC" FileSize="2525011" />
     <Item FileName="particlemgr_bundle" Ver="0" CRC="$CRC" FileSize="274500" />
     <Item FileName="room_dummy" Ver="0" CRC="$CRC" FileSize="1608" />
-    <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="973531" />
+    <Item FileName="scene_objects_bundle" Ver="0" CRC="$CRC" FileSize="975431" />
     <Item FileName="tile_object_bundle" Ver="0" CRC="$CRC" FileSize="1789822" />
     <Item FileName="transitions_bundle" Ver="0" CRC="$CRC" FileSize="200172" />
-    <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1435" />
-    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3849371" />
+    <Item FileName="tutorialdata_bundle" Ver="0" CRC="$CRC" FileSize="1489" />
+    <Item FileName="ui_bundle" Ver="0" CRC="$CRC" FileSize="3856449" />
   </Asset>
 </db>
